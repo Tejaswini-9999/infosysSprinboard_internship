@@ -1,5 +1,3 @@
-# infosysSprinboard_internship
-#ImpactSense - Earthquake Impact Prediction
 # ImpactSense - Earthquake Impact Prediction
 
 ## Project Statement:
