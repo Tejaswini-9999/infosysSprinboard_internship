@@ -81,6 +81,6 @@ else:
         st.markdown("### 🔹 Prediction Probabilities")
         st.bar_chart(prob_df.T.rename(columns={0: "probability"}))
 
-    # Option to show sample rows
+    # Option to show the sample rows
     if st.checkbox("Show sample rows from dataset"):
         st.write(df.head())
